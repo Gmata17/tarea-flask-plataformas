@@ -43,4 +43,4 @@ Puedes acceder a la colección directamente desde el siguiente enlace:
 ## 🧑‍💻 Autor
 
 Gabriel Mata  
-Ingeniería Informática - Práctica 2  
+Desarrollo con Plataformas Abiertas - Práctica 2  
